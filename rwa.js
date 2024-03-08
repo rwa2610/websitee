@@ -12,7 +12,7 @@ var descriptionsMain = [
 ];
 
 var chessboardIndex = 0;
-var chessboardImages = ["pics/S.PNG","pics/w.png", "pics/s1.png", "pics/s2.png", "pics/s3.png", "pics/s4.png", "pics/s6.png", "pics/s7.png"];
+var chessboardImages = ["pics/S.PNG","pics/w.png", "pics/S1.png", "pics/S2.png", "pics/S3.png", "pics/S4.png", "pics/S6.png", "pics/S7.png"];
 
 
 var buttonTexts = ["SETUP",            
